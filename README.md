@@ -6,5 +6,5 @@
 * scikit-learn==1.0.2  
 * pytorch==1.10.0  
 * mol2vec==0.1
-* rdkit==2022.9.3
+* rdkit==2022.9.3  
 You can install these packages by pip.
